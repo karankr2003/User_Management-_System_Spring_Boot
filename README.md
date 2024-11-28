@@ -5,10 +5,14 @@ The **Spring Boot CRUD REST API - USER Management System** is a comprehensive pr
 
 ## Project Setup
 
-### Create and Setup Spring Boot Project in Sprint Tool Suite4
-1. Open  Spring Boot Tool Suite and create a new Spring Boot project.
-2. Select necessary dependencies such as Spring Web, Spring Data JPA, lombok and MySQL Driver.
-3. Set up the project structure and configuration files.
+### Create and Setup Spring Boot Project in Spring Tool Suite 4
+1. Open **Spring Boot Tool Suite** (STS) and create a new Spring Boot project.
+2. Select necessary dependencies such as:
+    - **Spring Web**: To build RESTful web services.
+    - **Spring Data JPA**: To interact with the MySQL database.
+    - **Lombok**: To reduce boilerplate code for getters, setters, etc.
+    - **MySQL Driver**: To connect to a MySQL database.
+3. Set up the project structure and configuration files
 
 ## Key Features
 - **Create Employee JPA Entity**: Definition of the Employee JPA entity to model the user data.
