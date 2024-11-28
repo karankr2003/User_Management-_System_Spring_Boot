@@ -24,5 +24,14 @@ The **Spring Boot CRUD REST API - USER Management System** is a comprehensive pr
 - **Build Update Employee REST API**: Building of a RESTful API endpoint to update existing employee details.
 - **Build Delete Employee REST API**: Creation of a RESTful API endpoint to delete an employee from the system.
 
+##Example API Endpoints 
+
+###POST /employees: Add a new user
+{
+  "fiastName": "Raj",
+  "lastName": "Kumar",
+  "email": "raj@gmail.com"
+}
+
 ## Summary
 This project serves as a practical guide to building a user management system with Spring Boot. It covers the entire process from project setup and database configuration to creating and managing RESTful APIs. By following this project, developers can learn how to efficiently handle CRUD operations, data persistence, and RESTful service creation in a Spring Boot application.
